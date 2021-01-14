@@ -1,0 +1,98 @@
+
+/* bg-color = #FFFBF0
+   product-bg = #F1F1F1
+   main = #363958
+   light = #FABE4C
+   button = $A4BC46
+   font-family: 'Kanit', sans-serif;
+*/
+
+body{
+    font-family: 'Kanit', sans-serif;
+}
+
+.logo{
+    width: 40%;
+}
+
+.font_bold{
+    font-weight: bold;
+}
+
+.bg-color{
+    background-color: #FFFBF0;
+}
+
+h1, h2, h3, h5, p{
+    color: #363958;
+}
+
+.light_color{
+    color: #FABE4C;
+}
+
+.banner_text h1{
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+.banner_image{
+    width: 65%;
+    margin: 0 auto;
+    display: block;
+}
+.button_style{
+    background-color: #A4BC46;
+    color: #fff;
+    font-weight: bold;
+    padding: 12px 40px;
+    border-radius: 10px;
+    border: 1px solid #A4BC46;
+}
+
+.button_style:hover{
+    background-color: #fff;
+    color: #A4BC46;
+}
+
+
+/* Cart Design */
+
+.category_name{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.product-bg{
+    background-color: #F1F1F1;
+}
+
+.common_border{
+    border-radius: 10px;
+}
+
+.single_card{
+    border: 0;
+}
+
+.single_card_body h3{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.single_card_footer{
+    border: 0;
+    background-color: #fff;
+}
+
+.single_card_footer p{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.card_img img{
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
