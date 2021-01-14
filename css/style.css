@@ -159,6 +159,7 @@ h1, h2, h3, h5, p, a{
 }
 
 .feature:hover .feature_detail{
+    cursor: pointer;
     display: block;
     transform: translate(2s);
     transition: display ease 2s;
